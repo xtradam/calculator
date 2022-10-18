@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main {
+    width: 400px;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.display {
+ height: 80px;
+ width: 400px;
+ padding: 8px;
+ background-color: brown;
+ display: flex;
+ justify-content: end;
+ align-items: flex-end;
+}
+
+.displayText {
+    font-size: 40px;
+}
