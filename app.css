@@ -37,6 +37,7 @@ body {
 
 .displayText {
     font-size: 40px;
+    display: block;
 }
 
 .buttonsLeft {
@@ -76,4 +77,8 @@ body {
     color: lightgray;
     font-size: 40px;
     
+}
+
+.secondValue {
+    display: block;
 }
